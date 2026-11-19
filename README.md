@@ -1,10 +1,5 @@
 ![Logo Institucional](https://github.com/JonatanBogadoUNLZ/PPS-Jonatan-Bogado/blob/9952aac097aca83a1aadfc26679fc7ec57369d82/LOGO%20AZUL%20HORIZONTAL%20-%20fondo%20transparente.png)
 
-# UNLZ — Facultad de Ingeniería (Plantilla de Proyecto)
-## Ingeniería Mecatrónica — README + estructura estándar
-
-Este repositorio es una **PLANTILLA**.  
-Los estudiantes deben **usar este repo como base** (fork o “Use this template”) y **reemplazar los textos entre corchetes** `[ ... ]` con la información real de su proyecto.
 
 ---
 
@@ -52,8 +47,8 @@ Donde:
 ---
 
 ## ✅ Checklist de entrega
-- [ ] Naming correcto del repo: `ANIO_CUATRIMESTRE_TIPO_PROYECTO_APELLIDOS`
-- [ ] Título, autores, materia, **tipo (PPS/PF)**, año y cuatrimestre completos
+- [x] Naming correcto del repo: `ANIO_CUATRIMESTRE_TIPO_PROYECTO_APELLIDOS`
+- [] Título, autores, materia, **tipo (PPS/PF)**, año y cuatrimestre completos
 - [ ] Brief completo (one-liner + pitch + problema + solución + alcance + estado)
 - [ ] Instrucciones de uso reproducibles (otro puede correrlo)
 - [ ] Lista de componentes con cantidades y modelos
@@ -63,14 +58,14 @@ Donde:
 
 ---
 
-# [TÍTULO DEL PROYECTO]
+# DOCK DE CARGA REMOTA 
 
-**Tipo:** [PPS | PF]  
-**Año:** [2026] — **Cuatrimestre:** [1C | 2C]  
+**Tipo:** PPS
+**Año:** 2026 — **Cuatrimestre:** 2C 
 
 **Carrera:** Ingeniería Mecatrónica  
-**Materia / Curso:** [NOMBRE_DE_LA_MATERIA]  
-**Docente / Cátedra:** [NOMBRE_DOCENTE]  
+**Materia / Curso:** PRACTICAS PROFESIONALES SUPERVISADA 
+**Docente / Cátedra:** CRISTIAN  LUKASZEWICZ
 **Autor/es:** [APELLIDO, Nombre — Legajo] · [APELLIDO, Nombre — Legajo]
 
 ---
