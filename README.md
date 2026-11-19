@@ -308,8 +308,18 @@ Función: aloja la electrónica, guía cada dispositivo a su posición de carga 
 ---
 
 ## Autor
-**[APELLIDO, Nombre]** — [Legajo]  
-Contacto (opcional): [mail / LinkedIn]
+
+**[CHIMENTE, MATIAS]** — [44709249]  
+**[RODRIGUEZ LOMAZZI, BIANCA]** — [44650286]  
+
+Contacto:
+
+matias.chimente@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/matias-chimente/)
+
+Biancalujan58@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/biancalomazzi/)
+
 
 ---
 
@@ -322,4 +332,4 @@ Contacto (opcional): [mail / LinkedIn]
 
 Usar este texto (o similar) en el campo **About** de GitHub:
 
-**[PPS | PF] — [Proyecto] — FI-UNLZ — [2026] [1C|2C] — [Apellido1, Apellido2]**
+**[PPS] — [DOCK DE CARGA REMOTA] — FI-UNLZ — [2026] [2C] — [CHIMENTE , RODRIGUEZ LOMAZZI ]**
